@@ -1,6 +1,12 @@
 ### Hi there 👋
-
+<!-- set stats card -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hylurk&show_icons=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- set extra pins -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hylurk&repo=github-readme-stats&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- set top languages card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hylurk)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hylurk/hylurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
